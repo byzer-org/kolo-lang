@@ -12,7 +12,7 @@
         <!-- spark 3.3 start -->
         <scala.version>2.12.15</scala.version>
         <scala.binary.version>2.12</scala.binary.version>
-        <spark.version>3.3.0</spark.version>
+        <spark.version>3.3.3</spark.version>
         <spark.bigversion>3.3</spark.bigversion>
         <scalatest.version>3.2.13</scalatest.version>
         <!-- spark 3.3 end -->
